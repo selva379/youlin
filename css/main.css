@@ -111,7 +111,7 @@ a:hover {
   color: #ff5724;
 }
 .md-text p:not([class]) {
-  text-align: justify;
+  text-align: left;
 }
 hr {
   color: var(--text-meta);
@@ -5950,7 +5950,7 @@ body>.sitebg .siteblur:hover {
 .l_body[text-indent] .md-text.content li p:not([class]),
 .l_body[text-indent] .md-text.content .article-footer p:not([class]) {
   text-indent: 0;
-  text-align: justify;
+  text-align: left;
 }
 .md-text ul:not(:last-child),
 .md-text ol:not(:last-child) {
